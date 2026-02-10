@@ -5,6 +5,9 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 export PATH=$PATH:$ANDROID_HOME/platform-tools/fastboot
 export PATH=$PATH:$ANDROID_HOME/emulator
 
+# Claude Code
+export PATH="$PATH:$HOME/.local/bin:$PATH"
+
 # Flutter
 export PATH="$PATH:$HOME/flutter/bin"
 
